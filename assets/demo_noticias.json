@@ -1,0 +1,55 @@
+{
+  "status": "success",
+  "results": [
+    {
+      "article_id": "demo-001",
+      "title": "Noticia de ejemplo: avances en la Asamblea Nacional",
+      "link": "https://newsdata.io",
+      "description": "Texto de ejemplo sobre política.",
+      "pubDate": "2026-10-05 08:30:00",
+      "image_url": null,
+      "source_name": "Fuente demo",
+      "category": ["politics"]
+    },
+    {
+      "article_id": "demo-002",
+      "title": "Noticia de ejemplo: inicia el año lectivo en la Sierra",
+      "link": "https://newsdata.io",
+      "description": "Texto de ejemplo sobre educación.",
+      "pubDate": "2026-10-04 20:00:00",
+      "image_url": null,
+      "source_name": "Fuente demo",
+      "category": ["education"]
+    },
+    {
+      "article_id": "demo-003",
+      "title": "Noticia de ejemplo: crece el emprendimiento tecnológico en Quito",
+      "link": "https://newsdata.io",
+      "description": "Texto de ejemplo sobre tecnología.",
+      "pubDate": "2026-10-03 11:15:00",
+      "image_url": null,
+      "source_name": "Fuente demo",
+      "category": ["technology"]
+    },
+    {
+      "article_id": "demo-004",
+      "title": "Noticia de ejemplo: récord de visitantes en Galápagos",
+      "link": "https://newsdata.io",
+      "description": "Texto de ejemplo sobre turismo.",
+      "pubDate": "2026-10-02 09:45:00",
+      "image_url": null,
+      "source_name": "Fuente demo",
+      "category": ["tourism"]
+    },
+    {
+      "article_id": "demo-005",
+      "title": "Noticia de ejemplo: operativo policial en Guayaquil",
+      "link": "https://newsdata.io",
+      "description": "Texto de ejemplo sobre seguridad.",
+      "pubDate": "2026-10-01 18:20:00",
+      "image_url": null,
+      "source_name": "Fuente demo",
+      "category": ["crime"]
+    }
+  ]
+}
